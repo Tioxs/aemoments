@@ -8,3 +8,6 @@
         <a href="https://t.me/aemoments">Telegram Kanalı</a>
     <br>
 </p>
+  <p align="center">
+    Ae Moments bir [AsenaDev](https:/github.com/AsenaDev) kuruluşudur!
+</p>
