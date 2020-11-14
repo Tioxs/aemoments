@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.hizliresim.com/6jv0DL.jpg" width="200" height="200">
+  <img src="https://i.hizliresim.com/6jv0DL.jpg" width="300" height="350">
   <h1>Ae Moments</h1>
 </div>
 <p align="center">
